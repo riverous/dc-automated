@@ -1,0 +1,7 @@
+{
+    "ticket_id": "MWPW-176139",
+    "wcag_criterion": "1.4.13",
+    "paths": ["acrobat/blocks/dc-converter-widget"],
+    "fixes_applied": 1752547475,
+    "status": "completed"
+}
