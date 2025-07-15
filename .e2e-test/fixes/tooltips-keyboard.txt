@@ -1,0 +1,5 @@
+// E2E Test: Keyboard support for tooltips
+// Added keyboard event listeners for Enter/Space
+// Added proper tabindex for focusability
+// Added ESC key dismissal
+// WCAG 2.1.1 compliance
