@@ -1,0 +1,7 @@
+{
+    "ticket_id": "MWPW-175506",
+    "wcag_criterion": "1.4.3",
+    "paths": ["acrobat/blocks/rnr"],
+    "fixes_applied": 1752547474,
+    "status": "completed"
+}
